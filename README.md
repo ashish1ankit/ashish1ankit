@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashish1ankit
 - 👀 I’m interested in developing apps for fun.
-- 🌱 I’m currently learning javscript.
+- 🌱 I’m currently learning angular.
 - 📫 How to reach me (https://www.linkedin.com/in/ashish-ankit-5968b2131/)
 
 <!---
